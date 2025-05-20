@@ -10,7 +10,7 @@ const Navbar = () => {
         direction='row'
         gap='40px'
         >
-            <Link to='/' style={{textDecoration: 'none', color: '#3A1212', borderBottom: '3px solid #FF2625'}}>Home</Link>
+           
             <a href='#excercise' style={{textDecoration: 'none', color: '#3A1212'}}>Excercises</a>
         </Stack>
 
