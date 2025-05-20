@@ -12,6 +12,7 @@ const Navbar = () => {
         >
            
             <a href='#excercise' style={{textDecoration: 'none', color: '#3A1212'}}>Excercises</a>
+            <a href='https://www.youtube.com' target='_blank' rel='noopener noreferrer' style={{textDecoration: 'none', color: '#3A1212'}}>YouTube</a>
         </Stack>
 
     </Stack>
